@@ -2,7 +2,9 @@ Package: casinoCRISP
 Type: Package
 Title: CRISP Methodology for ML Applications in the Casino Industry
 Version: 0.1.0
-Author: Clay Peister & Mana Azizsoltani
+Authors@R: 
+    person("Mana", "Azizsoltani", "mana@diffgaming.com", role = c("aut", "cre"))
+    person("Clay", "Peister", "clayton@diffgaming.com", role = c("aut", "cre"))
 Maintainer: Mana Azizsoltani <mana@diffgaming.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
